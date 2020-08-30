@@ -1,3 +1,5 @@
+# SimpleMD: Simple Molecular Dynamics
+
 This is a readme file for a simple molecular dynamics (MD) program 
 for Lennard-Jones potential.
 
