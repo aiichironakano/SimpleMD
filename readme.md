@@ -15,9 +15,12 @@ This will create an executable named md. To run the executable, type:
 
 ./md < md.in
 
-
 ## 2. Files
 The following files are included in this folder, in addition to this readme file, readme.md.
-md.c: Main C program
-md.h: Header file for md.c
-md.in: Input parameter file (to be redirected to the standard input)
+<ul>
+<li>md.c: Main C program</li>
+<li>md.h: Header file for md.c</li>
+<li>md.in: Input parameter file (to be redirected to the standard input)</li>
+</ul>
+
+![Screen shot of MD simulation](ScreenShot.png)
