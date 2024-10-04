@@ -23,4 +23,4 @@ The following files are included in this folder, in addition to this readme file
 <li>md.in: Input parameter file (to be redirected to the standard input)</li>
 </ul>
 
-![A screen shot of MD simulation](ScreenShot.png)
+![Screen shot of MD simulation](ScreenShot.png)
